@@ -7,6 +7,7 @@ body{
     font-size: 90px;
     color: #654321;
     margin-bottom: 0px;
+    margin-top: 10px;
 }
 .mol{
     text-align: center;
@@ -14,12 +15,6 @@ body{
     font-size: 25px;
     color: white;
     margin-top: 0px;
-}
-
-.middle{
-    margin: center;
-    justify-content: center;
-    align-items: center;
 }
 
 .atom {
@@ -30,10 +25,6 @@ body{
     color: #654321;
 }
 
-#myInput{
-    margin: auto;
-
-}
 .slogan {
     text-align: center;
     color: #F8F8FF;
@@ -46,8 +37,4 @@ body{
     color: white;
 }
 
-.mid{
-    display: block;
-    margin: auto;
-}
 
