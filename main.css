@@ -37,7 +37,9 @@ body{
 .slogan {
 	text-align: center;
 	color: #F8F8FF;
-	font-family: 'Aladin';
+    font-family: 'Aladin';
+    position: absolute;
+    bottom: 5px;
 }
 
 .humans{
