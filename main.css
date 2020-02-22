@@ -1,10 +1,10 @@
 div h1{
 text-align: center;
-margin-top: 50px;
+margin-top: 25px;
 font-family: 'Aladin';
 }
 
-.mole{
+p.mole{
 margin: auto;
 text-align: center;
 font-family: 'Aladin';
