@@ -19,7 +19,8 @@ body{
 }
 .middle{
     margin: center;
-    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 
 .atom {
