@@ -1,7 +1,7 @@
 div h1{
 text-align: center;
 margin: auto;
-padding-top: 25 cm;
+padding-top: 40 cm;
 font-family: 'Aladin';
 }
 
@@ -9,4 +9,9 @@ div p{
 color: red;
 margin: auto;
 text-align: center;
+font-family: 'Aladin';
+}
+
+body{
+    background-color: #CD853F;
 }
