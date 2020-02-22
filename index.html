@@ -26,9 +26,6 @@
             <p class="atom">Moles --> Atoms, Molecules, or Particles</p>
         <input type="text" placeholder="Input Moles" id="myInput">
         <button type="button" onclick="getInputValue();">Convert</button>
-
-        <input type="text" placeholder="Input Atoms, Molecules, or Particles" id="myInput2">
-        <button type="button" onclick="getInputValue();">Convert</button>
     </div>
         <div>
         <script>
@@ -38,13 +35,6 @@
                 
                 // Displaying the value
                 alert(inputVal*6.02e23);
-            }
-            function getInputValue(){
-                // Selecting the input element and get its value 
-                var inputVal2 = document.getElementById("myInput2").value;
-                
-                // Displaying the value
-                alert(inputVal2/6.02e23);
             }
         </script>
         </div>
