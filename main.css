@@ -1,4 +1,4 @@
-div h1{
+.mole{
 margin-top: 25px;
 text-align: center;
 font-family: 'Aladin';
@@ -38,4 +38,8 @@ body{
 	text-align: center;
 	color: #F8F8FF;
 	font-family: 'Aladin';
+}
+
+.humans{
+    color: white;
 }
