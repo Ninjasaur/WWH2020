@@ -41,3 +41,10 @@ body{
     text-align: center;
 }
 
+.atoms {
+    text-align: center;
+    font-family: 'Aladin';
+    font-size: 20px;
+    color: #654321;
+}
+
