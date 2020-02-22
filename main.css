@@ -1,11 +1,12 @@
 div h1{
 text-align: center;
 margin: auto;
-padding-top: 15 cm;
-background-color: #D3D3D3;
+padding-top: 25 cm;
 font-family: 'Aladin';
 }
 
 div p{
 color: red;
+margin: auto;
+text-align: center;
 }
