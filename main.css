@@ -3,7 +3,7 @@ text-align: center;
 font-family: 'Aladin';
 font-size: 100px;
 color: #654321;
-margin-top: 5px;
+margin-top: 10px;
 }
 
 .mol{
@@ -11,7 +11,6 @@ margin-top: 5px;
     font-family: 'Aladin';
     font-size: 25px;
     color: white;
-    border-top: 5px;
 }
 
 body{
@@ -45,4 +44,9 @@ body{
 
 .humans{
     color: white;
+}
+
+.mid{
+    display: block;
+    margin: auto;
 }
