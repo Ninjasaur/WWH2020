@@ -4,14 +4,14 @@ font-family: 'Aladin';
 font-size: 90px;
 color: #654321;
 
-.mol{
+.class{
     text-align: center;
     font-family: 'Aladin';
     font-size: 25px;
     color: white;
     line-height: 0px;
 }
-
+ 
 body{
     background-color: #CD853F;
 }
