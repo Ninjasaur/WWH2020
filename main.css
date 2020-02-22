@@ -15,6 +15,6 @@ color: #654321;
 body{
     background-color: #CD853F;
 }
-div{
-    
+.middle{
+    align-items: center;
 }
