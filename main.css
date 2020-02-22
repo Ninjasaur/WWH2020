@@ -10,6 +10,10 @@ margin: auto;
 text-align: center;
 font-family: 'Aladin';
 font-size: 50 px;
+color: #fff;
+-webkit-animation: glow 1s ease-in-out infinite alternate;
+-moz-animation: glow 1s ease-in-out infinite alternate;
+animation: glow 1s ease-in-out infinite alternate;
 }
 
 body{
