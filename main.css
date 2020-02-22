@@ -12,6 +12,14 @@ font-size: 100px;
 color: #654321;
 }
 
+p.mol{
+    margin:auto;
+    text-align: center;
+    font-family: 'Aladin';
+    font-size: 25px;
+    color: black;
+}
+
 body{
     background-color: #CD853F;
 }
