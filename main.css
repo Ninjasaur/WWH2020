@@ -23,10 +23,14 @@ color: #654321;
 body{
     background-color: #CD853F;
 }
-div.middle{
+.middle{
     margin: auto;
 }
 
 .atom {
-    te
+    margin: auto;
+    text-align: center;
+    font-family: 'Aladin';
+    font-size: 20px;
+    color: black;
 }
