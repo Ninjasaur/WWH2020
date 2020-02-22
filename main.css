@@ -40,6 +40,7 @@ body{
 	color: #F8F8FF;
     font-family: 'Aladin';
     bottom: 2px;
+    position: absolute;
 }
 
 .humans{
