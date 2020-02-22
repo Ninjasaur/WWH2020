@@ -42,6 +42,17 @@
             <input type="text" placeholder="Input Atoms, Molecules, or Particles" id="yourInput">
             <button type="button" onclick="getInputValue();">Convert</button>
         </div>
+        <div>
+            <script>
+                function getInputValue(){
+                    // Selecting the input element and get its value 
+                    var inputValu = document.getElementById("yourInput").value;
+                    
+                    // Displaying the value
+                    alert(inputValu/6.02e23 + [" Moles"])
+                }
+            </script>
+            </div>
         <p class="slogan"> This <a class="humans" href="humans.txt" target="_blank">human</a> thinks you're cute. &hearts; </p>
 
         </body>
