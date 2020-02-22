@@ -1,0 +1,20 @@
+# humanstxt.org
+
+# TEAM
+
+    Me: Sadie Esch-Laurent
+    Site: window.location.hostname
+    Location: Michigan, US
+
+# THANKS
+
+    H20
+    Google
+    Stack Overflow
+    Pinjasaur
+
+# Site
+
+    Last update: 2020/02/23
+    Standards: HTML5, CSS3, JavaScript
+    Software: Visual Studio Code, GitHub Desktop
