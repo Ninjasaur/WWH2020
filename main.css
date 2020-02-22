@@ -1,4 +1,4 @@
-p.mole{
+div h1{
 margin-top: 25px;
 text-align: center;
 font-family: 'Aladin';
@@ -7,7 +7,6 @@ color: #654321;
 }
 
 .mol{
-    margin-bottom: 50px;
     text-align: center;
     font-family: 'Aladin';
     font-size: 25px;
