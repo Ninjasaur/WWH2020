@@ -1,16 +1,51 @@
 body{
     background-color: #CD853F;
 }
-h1.mole{
+.mole{
     text-align: center;
     font-family: 'Aladin';
     font-size: 90px;
     color: #654321;
-    
-    .mol{
-        text-align: center;
-        font-family: 'Aladin';
-        font-size: 25px;
-        color: white;
-    }
-    
+}
+.mol{
+    text-align: center;
+    font-family: 'Aladin';
+    font-size: 25px;
+    color: white;
+}
+
+.middle{
+    margin: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.atom {
+    margin-top: 25px;
+    text-align: center;
+    font-family: 'Aladin';
+    font-size: 20px;
+    color: #654321;
+}
+
+#myInput{
+    margin: auto;
+
+}
+.slogan {
+    text-align: center;
+    color: #F8F8FF;
+    font-family: 'Aladin';
+    bottom: 2px;
+    position: absolute;
+}
+
+.humans{
+    color: white;
+}
+
+.mid{
+    display: block;
+    margin: auto;
+}
+
