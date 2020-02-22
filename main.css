@@ -4,7 +4,7 @@ margin-top: 50px;
 font-family: 'Aladin';
 }
 
-div p{
+.mole{
 margin: auto;
 text-align: center;
 font-family: 'Aladin';
@@ -16,7 +16,7 @@ body{
     background-color: #CD853F;
 }
 .middle{
-    align-items: center;
+    margin: auto;
 }
 
 .atom {
