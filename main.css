@@ -12,7 +12,7 @@ font-size: 100px;
 color: #654321;
 }
 
-p.mol{
+.mol{
     margin:auto;
     text-align: center;
     font-family: 'Aladin';
@@ -23,7 +23,7 @@ p.mol{
 body{
     background-color: #CD853F;
 }
-.middle{
+div.middle{
     margin: auto;
 }
 
