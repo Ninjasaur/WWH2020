@@ -11,7 +11,8 @@
     H20
     Google
     Stack Overflow
-    Pinjasaur
+    Paul Esch-Laurent
+    Dominic Hupp
 
 # Site
 
