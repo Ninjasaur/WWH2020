@@ -14,7 +14,7 @@
     Paul Esch-Laurent
     Dominic Hupp
 
-# Site
+# SITE
 
     Last update: 2020/02/23
     Standards: HTML5, CSS3, JavaScript
